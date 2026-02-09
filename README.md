@@ -1,6 +1,7 @@
 # Searching & Sorting
 
 1) https://cses.fi/problemset/task/1662
+<br>
 {
   In C++, the result of the % operator can be negative if the left operand is negative.
   
