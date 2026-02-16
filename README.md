@@ -23,4 +23,6 @@
 3) https://cses.fi/problemset/task/2169
 4) https://cses.fi/problemset/task/3420
 5) https://cses.fi/problemset/task/1141
-6) https://cses.fi/problemset/task/1639 (mein chutiya hu 2 bar gpt karna pada tha debug karne ke liye)
+
+# DP
+1) https://cses.fi/problemset/task/1639 (mein chutiya hu 2 bar gpt karna pada tha debug karne ke liye)
