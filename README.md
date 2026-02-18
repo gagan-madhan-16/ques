@@ -26,3 +26,4 @@
 
 # DP
 1) https://cses.fi/problemset/task/1639 (mein chutiya hu 2 bar gpt karna pada tha debug karne ke liye)
+2) https://cses.fi/problemset/task/1746/ (o ko include nhi karna tha m mein)
